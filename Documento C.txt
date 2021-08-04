@@ -1,2 +1,2 @@
 Documento C
-este es el segundo dia de trabajo en git
+este es el segundo dia de trabajo en git y modificando
